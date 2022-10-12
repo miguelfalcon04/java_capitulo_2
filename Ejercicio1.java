@@ -6,7 +6,7 @@ public class Ejercicio1{
         System.out.println("y = "+y);
         System.out.println("x + y = "+(x+y));
         System.out.println("x - y = "+(x-y));
-        System.out.println("x / y = "+(x/y));
+        System.out.println("x / y = "+((float)x / (float)y));
         System.out.println("x * y = "+(x*y));
     }
 }
